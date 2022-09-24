@@ -131,7 +131,6 @@ public class Contact {
 ```
 
 # App Highlight
+![Contact UI Code](https://user-images.githubusercontent.com/74413402/192095006-b3a2fea6-5516-48d6-b15b-b68cee88176f.png)
+![Contact UI App](https://user-images.githubusercontent.com/74413402/192095011-c8fe9356-6847-4032-8bd9-845c7b758bc5.png)
 
-<img src="app_images/Contact UI Code.png" width="1000" /><br>
-
-<img src="app_images/Contact UI App.png" width="300" /><br>
