@@ -1,6 +1,8 @@
 # Android_Contact_App_UI
 Simple UI of Contact App using guidelines and RecyclerView &amp; Custom Adapter
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### MainActivity.java
